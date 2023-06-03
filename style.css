@@ -7,6 +7,8 @@
   --border-radius: 8px;
 }
 body {
+  margin: 0;
+  padding: 0;
   font-family: 'Outfit', 'Ubuntu', sans-serif;
   font-weight: 400, 700;
   box-sizing: border-box;
@@ -48,8 +50,8 @@ body {
   font-weight: 400;
 }
 #content-img {
-  margin-bottom: 5px;
-  height: 300px;
+  margin-bottom: 10px;
+  height: 250px;
   border-radius: var(--border-radius);
 }
 #content-img img {
