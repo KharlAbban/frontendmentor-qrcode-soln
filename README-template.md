@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./images/screenshot.png)
 ### Links
 
-Sorry, I wasn't able to host this project. You can find all relevant files in this repo [github.com/KharlAbban/frontendmentor-qrcode-soln]
+[kharlabban.github.io](kharlabban.github.io)
 ## My process
 
 ### Built with
@@ -58,7 +58,7 @@ To see how you can add code snippets, see below:
 ```
 ### Continued development
 
-I plan to focus more on relative values when setting position elements and sizes. Also included in my plans are to clean up the code, ussimplify it and modify the media section of the CSS.
+I plan to focus more on relative values when setting position elements and sizes. Also included in my plans are to clean up the code, simplify it and modify the media section of the CSS.
 
 ### Useful resources
 
@@ -67,4 +67,4 @@ I plan to focus more on relative values when setting position elements and sizes
 
 - Frontend Mentor - [@KharlAbban](https://www.frontendmentor.io/profile/KharlAbban)
 - Github - [KharlAbban](https://www.github.com/KharlAbban)
-- LinkedIn - [KharlAbban](https://www.github.com/KharlAbban)
+- LinkedIn - [KharlAbban](https://www.linkedin.com/in/er-carl-abban-623817271/)
